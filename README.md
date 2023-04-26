@@ -1,17 +1,26 @@
 ![1665641953933](https://user-images.githubusercontent.com/115866799/204979046-1fe0ce6a-c417-4d76-b795-4078c07b15cd.jpg)
 
 - 👋 Hi, I’m @Singh-Shaishav
-- 👀 I’m a Reliable and self-motivated professional with 1+ year experience. Seeking to start a career in the IT sector in a flourishing organization to work alongside a diverse team with learning opportunities.  Proficient
-          in Python, Java , SQL, HTML &
-          CSS. Strong ability to
-          communicate with clients and ability to express ideas clearly and concisely.
+- 👀 As a recent graduate in Engineering with a passion for software development, I am excited to leverage my technical skills to pursue a career as a software engineer.      Through self-study and online courses, I have gained expertise in a range of programming languages, including JavaScript, Python, and SQL. I am also proficient in    using various web technologies such as HTML, CSS, React.js, and jQuery, to create responsive and dynamic web applications. Additionally, my experience in designing and   analyzing complex systems has honed my ability to think critically and logically, which translates well into software development. With a strong work ethic and a  willingness to learn, I am confident that I can make valuable contributions to any software development team.
 - 🌱 Skills :
      - Python
-     - Java
+     - JavaScript
      - SQL
      - HTML
      - CSS 
+- 🌱 Frameworks & Technologies  :
+     - ReactJS
+     - JQuery
+     - Bootstrsp
+     - Django
+     - Flask
+     - Pandas
+     - RESTful API
 - ⚒️ Projects
+     - GIS_Web Map App
+     - React - Todo List  
+     - Wiki Live Search App
+     - Local Weather App
      - Personal Portfolio Website 
      - Random Quotes generator 
      - Geocoder Web App 
